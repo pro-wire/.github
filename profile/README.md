@@ -1,3 +1,1 @@
-# ProWire
-
 **ProWire** is a modular full-featured application framework built on top of [ProcessWire CMS/CMF](https://processwire.com). It extends ProcessWire's powerful admin interface with a polished custom UI, reactive data tables, HTMX-driven interactions, and a complete headless-ready API stack — giving you everything you need to build modern web applications, internal tools, SaaS platforms, or fully decoupled frontends.
